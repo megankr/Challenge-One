@@ -10,7 +10,9 @@ N/A
 
 ## Usage
 
-N/A
+Live URL: https://megankr.github.io/challenge-one/
+
+<img width="1101" alt="Screenshot 2023-09-11 at 1 20 20 PM" src="https://github.com/megankr/challenge-one/assets/143129740/69e7a839-b14f-49bb-98c1-795488f91120">
 
 ## Credits
 
